@@ -2,22 +2,26 @@
 
 ## 🖹 Certificates
 
+<html>
+<head>
 <style>
-        .image-container {
-            display: flex;
+    .image-container {
+        display: flex;
             justify-content: center;
             align-items: center;
         }
-        
         .image-container img {
             margin: 0 10px;
         }
     </style>
-
 <div class="image-container">
         <img src="assets/uipath-seeklogo.com.svg" alt="UiPath">
         <img src="assets/Blue_Prism_logo.svg" alt="Blueprism">
 </div>
+</head>
+
+</html>
+
 
 ## 📈 Stats
 
