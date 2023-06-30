@@ -2,25 +2,11 @@
 
 ## 🖹 Certificates
 
-<html>
-<head>
-<style>
-    .image-container {
-        display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .image-container img {
-            margin: 0 10px;
-        }
-    </style>
-<div class="image-container">
-        <img src="assets/uipath-seeklogo.com.svg" alt="UiPath">
-        <img src="assets/Blue_Prism_logo.svg" alt="Blueprism">
+<div style="text-align: center;">
+    <img src="assets/uipath-seeklogo.com.svg" alt="UiPath" style="margin: 0 10px;">
+    <img src="assets/Blue_Prism_logo.svg" alt="Blueprism" style="margin: 0 10px;">
 </div>
-</head>
 
-</html>
 
 
 ## 📈 Stats
