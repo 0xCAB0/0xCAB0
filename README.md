@@ -40,5 +40,5 @@ end
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alvarocaboUPM&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocaboUPM&hide=java,html,css&layout=compact&card_width=200&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocabo&hide=html,css&layout=compact&card_width=200&theme=radical" />
 </a>
