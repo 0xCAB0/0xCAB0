@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Hey! My name is Álvaro, I'm a software engineering student, as of right now working as a RPA consultant at `NTT Data`.
+Hey! My name is Álvaro, I'm a software engineering at `NTT Data`.
 
 I'll let my favourite language explain more about myself:
 
